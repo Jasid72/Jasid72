@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Syed Muhammad Jasid Hassan Naqvi</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-- 🔭 I’m currently working on [Quiz Brain](https://github.com/Jasid72/Quiz-Brain)
+- 🔭 I’m currently working on Flask
 
-- 👯 I’m currently working on **Turtle Race**
+- 👯 I’m currently Learning **bootstrap 5**
 
 - 📫 How to reach me **jasidhassan@gmail.com**
 
